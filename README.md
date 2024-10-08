@@ -39,7 +39,7 @@ YYYY-MM-DD HH:MM:SS
 
 1. Клонируйте репозиторий:
 ```
-https://github.com/buzindmitriy/kursovaya_rabota_1
+https://github.com/buzindmitriy/course_work_1
 ```
 
 2. Установите зависимости:
