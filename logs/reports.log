@@ -1,0 +1,10 @@
+2024-10-08 14:33:31,268 - reports - spending_by_category - INFO: Фильтрация транзакций по категории Продукты за последние 3 месяца
+2024-10-08 14:33:31,272 - reports - spending_by_category - INFO: Транзакции отфильтрованы и сгруппированы
+2024-10-08 14:33:31,273 - reports - wrapper - INFO: Запись результата работы функции <function spending_by_category at 0x00000169B624DA80> в файл function_operation_report.txt
+2024-10-08 14:33:31,274 - reports - spending_by_category - INFO: Фильтрация транзакций по категории Нет категории за последние 3 месяца
+2024-10-08 14:33:31,276 - reports - spending_by_category - INFO: Транзакции отфильтрованы и сгруппированы
+2024-10-08 14:33:31,277 - reports - wrapper - INFO: Запись результата работы функции <function spending_by_category at 0x00000169B624DA80> в файл function_operation_report.txt
+2024-10-08 14:33:31,278 - reports - spending_by_category - ERROR: Произошла ошибка: day is out of range for month
+2024-10-08 14:33:31,278 - reports - wrapper - INFO: Запись результата работы функции <function spending_by_category at 0x00000169B624DA80> в файл function_operation_report.txt
+2024-10-08 14:33:31,281 - reports - wrapper - INFO: Запись результата работы функции <function test_decorator.<locals>.report at 0x00000169B656B380> в файл test_report.txt
+2024-10-08 14:33:31,285 - reports - wrapper - ERROR: Произошла ошибка: Test error

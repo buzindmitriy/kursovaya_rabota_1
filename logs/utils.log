@@ -1,0 +1,36 @@
+2024-10-08 14:33:31,307 - utils - read_data_from_excel - INFO: Чтение данных из файла: test_data.xlsx
+2024-10-08 14:33:31,321 - utils - greeting - INFO: Приветствие: 'Добрый день'
+2024-10-08 14:33:31,323 - utils - greeting - INFO: Приветствие: 'Доброе утро'
+2024-10-08 14:33:31,325 - utils - greeting - INFO: Приветствие: 'Доброй ночи'
+2024-10-08 14:33:31,327 - utils - greeting - INFO: Приветствие: 'Добрый вечер'
+2024-10-08 14:33:31,328 - utils - card_information - INFO: Преобразование DataFrame в список словарей
+2024-10-08 14:33:31,328 - utils - card_information - INFO: Сортировка по номерам карт,подсчет суммы платежей и кэшбэка
+2024-10-08 14:33:31,328 - utils - card_information - INFO: получен словарь по тратам и кэшбэку по каждой карте
+2024-10-08 14:33:31,331 - utils - card_information - INFO: Преобразование DataFrame в список словарей
+2024-10-08 14:33:31,332 - utils - card_information - INFO: Сортировка по номерам карт,подсчет суммы платежей и кэшбэка
+2024-10-08 14:33:31,332 - utils - card_information - INFO: получен словарь по тратам и кэшбэку по каждой карте
+2024-10-08 14:33:31,334 - utils - card_information - INFO: Преобразование DataFrame в список словарей
+2024-10-08 14:33:31,335 - utils - card_information - INFO: Сортировка по номерам карт,подсчет суммы платежей и кэшбэка
+2024-10-08 14:33:31,335 - utils - card_information - INFO: получен словарь по тратам и кэшбэку по каждой карте
+2024-10-08 14:33:31,337 - utils - card_information - INFO: Преобразование DataFrame в список словарей
+2024-10-08 14:33:31,338 - utils - card_information - INFO: Сортировка по номерам карт,подсчет суммы платежей и кэшбэка
+2024-10-08 14:33:31,339 - utils - card_information - INFO: получен словарь по тратам и кэшбэку по каждой карте
+2024-10-08 14:33:31,341 - utils - top_transactions - INFO: Сортировка транзакций по сумме платежа
+2024-10-08 14:33:31,341 - utils - top_transactions - ERROR: Произошла ошибка 'Сумма платежа'
+2024-10-08 14:33:31,343 - utils - top_transactions - INFO: Сортировка транзакций по сумме платежа
+2024-10-08 14:33:31,347 - utils - top_transactions - INFO: Выполнение сортировки транзакций по сумме платежа завершено
+2024-10-08 14:33:31,350 - utils - get_currency_rates - INFO: Запрос курса валюты USD
+2024-10-08 14:33:31,350 - utils - get_currency_rates - INFO: Успешный запрос
+2024-10-08 14:33:31,350 - utils - get_currency_rates - INFO: Запрос курса валюты EUR
+2024-10-08 14:33:31,350 - utils - get_currency_rates - INFO: Успешный запрос
+2024-10-08 14:33:31,350 - utils - get_currency_rates - INFO: Курсы валют созданы
+2024-10-08 14:33:31,353 - utils - get_currency_rates - INFO: Запрос курса валюты USD
+2024-10-08 14:33:31,354 - utils - get_currency_rates - WARNING: Ошибка: 401, <MagicMock name='get().text' id='1553542335136'>
+2024-10-08 14:33:31,354 - utils - get_currency_rates - INFO: Курсы валют созданы
+2024-10-08 14:33:31,356 - utils - get_price_stocks - INFO: Запрос стоимости акций компании AAPL
+2024-10-08 14:33:31,356 - utils - get_price_stocks - INFO: Успешный запрос
+2024-10-08 14:33:31,357 - utils - get_price_stocks - INFO: Стоимость акций создана
+2024-10-08 14:33:31,359 - utils - get_price_stocks - INFO: Запрос стоимости акций компании AAPL
+2024-10-08 14:33:31,359 - utils - get_price_stocks - WARNING: Ошибка: 401, <MagicMock name='get().text' id='1553542911552'>
+2024-10-08 14:33:31,359 - utils - get_price_stocks - INFO: Стоимость акций создана
+2024-10-08 14:33:33,339 - utils - read_data_from_excel - INFO: Чтение данных из файла: C:\Users\Acer\PycharmProjects\kursovaya_1\src\../data\operations.xlsx
